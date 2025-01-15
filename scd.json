@@ -1,0 +1,10 @@
+{
+    "_id": "customer123",
+    "name": "Jane Doe",
+    "phone": "+1234567890",
+    "preferences": {
+      "interests": ["technology", "finance"],
+      "last_purchase": "smartphone"
+    }
+  }
+  

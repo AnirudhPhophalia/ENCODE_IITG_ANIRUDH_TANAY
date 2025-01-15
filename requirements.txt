@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pymongo
+twilio
+google-cloud-texttospeech
+openai
+python-dotenv
